@@ -6,6 +6,9 @@ Pollinations.ai Image endpoint for text-to-image concept art and links to **Mesh
 All API keys/tokens are entered by the end user directly in the browser (frontend) sidebar — the app never
 reads or stores API keys server-side, and keys only live in the current Streamlit session.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rkstu3dpsdemo-htjrvvp792te7jkydj75mf.streamlit.app/)
+[![Sponsor on GitHub](https://img.shields.io/badge/GitHub-Sponsors-ea4aaa?logo=github-sponsors)](https://github.com/sponsors/gituserc1140)
+
 ## Folder structure
 
 - `app.py` — Streamlit entry point
